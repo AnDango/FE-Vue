@@ -1,2 +1,2 @@
-# VueDemo
-Learning Vue.js
+# Introduction
+Front-End demos with Vue.js.
