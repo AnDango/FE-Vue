@@ -1,5 +1,5 @@
 ## Introduction
-Front-End demos with Vue.js.
+Learning Vue.js.
 
 ## Progress
 | Date | Progress |
